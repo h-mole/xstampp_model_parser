@@ -1,6 +1,6 @@
 [project]
 name = "xstampp_model_parser"
-version = "0.0.1"
+version = "0.1.0"
 dependencies = ["dataclasses_json", "ply"]
 requires-python = ">= 3.10"
 

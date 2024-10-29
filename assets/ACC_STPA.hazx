@@ -81,12 +81,12 @@
                             <x>403</x>
                             <y>119</y>
                             <location>
-<x>403</x>
-<y>119</y>
+                                <x>403</x>
+                                <y>119</y>
                             </location>
                             <size>
-<width>120</width>
-<height>40</height>
+                                <width>120</width>
+                                <height>40</height>
                             </size>
                         </layout>
                         <layoutPM>
@@ -95,164 +95,164 @@
                             <x>403</x>
                             <y>119</y>
                             <location>
-<x>403</x>
-<y>119</y>
+                                <x>403</x>
+                                <y>119</y>
                             </location>
                             <size>
-<width>246</width>
-<height>170</height>
+                                <width>246</width>
+                                <height>170</height>
                             </size>
                         </layoutPM>
                         <componentType>CONTROLLER</componentType>
                         <causalFactors/>
                         <children>
                             <component>
-<id>88c2b479-b233-4d8b-8e71-635f829eef32</id>
-<text>MyProcessModel</text>
-<isSafetyCritical>false</isSafetyCritical>
-<layout>
-    <height>40</height>
-    <width>120</width>
-    <x>27</x>
-    <y>20</y>
-    <location>
-        <x>27</x>
-        <y>20</y>
-    </location>
-    <size>
-        <width>120</width>
-        <height>40</height>
-    </size>
-</layout>
-<layoutPM>
-    <height>124</height>
-    <width>217</width>
-    <x>15</x>
-    <y>23</y>
-    <location>
-        <x>15</x>
-        <y>23</y>
-    </location>
-    <size>
-        <width>217</width>
-        <height>124</height>
-    </size>
-</layoutPM>
-<componentType>PROCESS_MODEL</componentType>
-<causalFactors/>
-<children>
-    <component>
-        <id>7663b8cb-94fa-4247-8661-0f5fec69c0d9</id>
-        <text>MyVar</text>
-        <isSafetyCritical>false</isSafetyCritical>
-        <layout>
-            <height>40</height>
-            <width>120</width>
-            <x>30</x>
-            <y>8</y>
-            <location>
-                <x>30</x>
-                <y>8</y>
-            </location>
-            <size>
-                <width>120</width>
-                <height>40</height>
-            </size>
-        </layout>
-        <layoutPM>
-            <height>40</height>
-            <width>120</width>
-            <x>8</x>
-            <y>15</y>
-            <location>
-                <x>8</x>
-                <y>15</y>
-            </location>
-            <size>
-                <width>120</width>
-                <height>40</height>
-            </size>
-        </layoutPM>
-        <componentType>PROCESS_VARIABLE</componentType>
-        <causalFactors/>
-        <children>
-            <component>
-                <id>baad6dc7-34c0-44a4-899a-b7d665120d47</id>
-                <text>Normal</text>
-                <isSafetyCritical>false</isSafetyCritical>
-                <comment></comment>
-                <layout>
-                    <height>15</height>
-                    <width>100</width>
-                    <x>44</x>
-                    <y>19</y>
-                    <location>
-                        <x>44</x>
-                        <y>19</y>
-                    </location>
-                    <size>
-                        <width>100</width>
-                        <height>15</height>
-                    </size>
-                </layout>
-                <layoutPM>
-                    <height>15</height>
-                    <width>100</width>
-                    <x>44</x>
-                    <y>19</y>
-                    <location>
-                        <x>44</x>
-                        <y>19</y>
-                    </location>
-                    <size>
-                        <width>100</width>
-                        <height>15</height>
-                    </size>
-                </layoutPM>
-                <componentType>PROCESS_VALUE</componentType>
-                <causalFactors/>
-                <children/>
-            </component>
-            <component>
-                <id>0db74612-fa92-453d-a040-e41e871645f8</id>
-                <text>Abnormal</text>
-                <isSafetyCritical>false</isSafetyCritical>
-                <comment></comment>
-                <layout>
-                    <height>15</height>
-                    <width>100</width>
-                    <x>44</x>
-                    <y>32</y>
-                    <location>
-                        <x>44</x>
-                        <y>32</y>
-                    </location>
-                    <size>
-                        <width>100</width>
-                        <height>15</height>
-                    </size>
-                </layout>
-                <layoutPM>
-                    <height>15</height>
-                    <width>100</width>
-                    <x>44</x>
-                    <y>32</y>
-                    <location>
-                        <x>44</x>
-                        <y>32</y>
-                    </location>
-                    <size>
-                        <width>100</width>
-                        <height>15</height>
-                    </size>
-                </layoutPM>
-                <componentType>PROCESS_VALUE</componentType>
-                <causalFactors/>
-                <children/>
-            </component>
-        </children>
-    </component>
-</children>
+                                <id>88c2b479-b233-4d8b-8e71-635f829eef32</id>
+                                <text>MyProcessModel</text>
+                                <isSafetyCritical>false</isSafetyCritical>
+                                <layout>
+                                    <height>40</height>
+                                    <width>120</width>
+                                    <x>27</x>
+                                    <y>20</y>
+                                    <location>
+                                        <x>27</x>
+                                        <y>20</y>
+                                    </location>
+                                    <size>
+                                        <width>120</width>
+                                        <height>40</height>
+                                    </size>
+                                </layout>
+                                <layoutPM>
+                                    <height>124</height>
+                                    <width>217</width>
+                                    <x>15</x>
+                                    <y>23</y>
+                                    <location>
+                                        <x>15</x>
+                                        <y>23</y>
+                                    </location>
+                                    <size>
+                                        <width>217</width>
+                                        <height>124</height>
+                                    </size>
+                                </layoutPM>
+                                <componentType>PROCESS_MODEL</componentType>
+                                <causalFactors/>
+                                <children>
+                                    <component>
+                                        <id>7663b8cb-94fa-4247-8661-0f5fec69c0d9</id>
+                                        <text>MyVar</text>
+                                        <isSafetyCritical>false</isSafetyCritical>
+                                        <layout>
+                                            <height>40</height>
+                                            <width>120</width>
+                                            <x>30</x>
+                                            <y>8</y>
+                                            <location>
+                                                <x>30</x>
+                                                <y>8</y>
+                                            </location>
+                                            <size>
+                                                <width>120</width>
+                                                <height>40</height>
+                                            </size>
+                                        </layout>
+                                        <layoutPM>
+                                            <height>40</height>
+                                            <width>120</width>
+                                            <x>8</x>
+                                            <y>15</y>
+                                            <location>
+                                                <x>8</x>
+                                                <y>15</y>
+                                            </location>
+                                            <size>
+                                                <width>120</width>
+                                                <height>40</height>
+                                            </size>
+                                        </layoutPM>
+                                        <componentType>PROCESS_VARIABLE</componentType>
+                                        <causalFactors/>
+                                        <children>
+                                            <component>
+                                                <id>baad6dc7-34c0-44a4-899a-b7d665120d47</id>
+                                                <text>Normal</text>
+                                                <isSafetyCritical>false</isSafetyCritical>
+                                                <comment></comment>
+                                                <layout>
+                                                    <height>15</height>
+                                                    <width>100</width>
+                                                    <x>44</x>
+                                                    <y>19</y>
+                                                    <location>
+                                                        <x>44</x>
+                                                        <y>19</y>
+                                                    </location>
+                                                    <size>
+                                                        <width>100</width>
+                                                        <height>15</height>
+                                                    </size>
+                                                </layout>
+                                                <layoutPM>
+                                                    <height>15</height>
+                                                    <width>100</width>
+                                                    <x>44</x>
+                                                    <y>19</y>
+                                                    <location>
+                                                        <x>44</x>
+                                                        <y>19</y>
+                                                    </location>
+                                                    <size>
+                                                        <width>100</width>
+                                                        <height>15</height>
+                                                    </size>
+                                                </layoutPM>
+                                                <componentType>PROCESS_VALUE</componentType>
+                                                <causalFactors/>
+                                                <children/>
+                                            </component>
+                                            <component>
+                                                <id>0db74612-fa92-453d-a040-e41e871645f8</id>
+                                                <text>Abnormal</text>
+                                                <isSafetyCritical>false</isSafetyCritical>
+                                                <comment></comment>
+                                                <layout>
+                                                    <height>15</height>
+                                                    <width>100</width>
+                                                    <x>44</x>
+                                                    <y>32</y>
+                                                    <location>
+                                                        <x>44</x>
+                                                        <y>32</y>
+                                                    </location>
+                                                    <size>
+                                                        <width>100</width>
+                                                        <height>15</height>
+                                                    </size>
+                                                </layout>
+                                                <layoutPM>
+                                                    <height>15</height>
+                                                    <width>100</width>
+                                                    <x>44</x>
+                                                    <y>32</y>
+                                                    <location>
+                                                        <x>44</x>
+                                                        <y>32</y>
+                                                    </location>
+                                                    <size>
+                                                        <width>100</width>
+                                                        <height>15</height>
+                                                    </size>
+                                                </layoutPM>
+                                                <componentType>PROCESS_VALUE</componentType>
+                                                <causalFactors/>
+                                                <children/>
+                                            </component>
+                                        </children>
+                                    </component>
+                                </children>
                             </component>
                         </children>
                     </component>
@@ -267,12 +267,12 @@
                             <x>240</x>
                             <y>216</y>
                             <location>
-<x>240</x>
-<y>216</y>
+                                <x>240</x>
+                                <y>216</y>
                             </location>
                             <size>
-<width>120</width>
-<height>40</height>
+                                <width>120</width>
+                                <height>40</height>
                             </size>
                         </layout>
                         <layoutPM>
@@ -281,12 +281,12 @@
                             <x>240</x>
                             <y>216</y>
                             <location>
-<x>240</x>
-<y>216</y>
+                                <x>240</x>
+                                <y>216</y>
                             </location>
                             <size>
-<width>120</width>
-<height>40</height>
+                                <width>120</width>
+                                <height>40</height>
                             </size>
                         </layoutPM>
                         <componentType>ACTUATOR</componentType>
@@ -304,12 +304,12 @@
                             <x>659</x>
                             <y>230</y>
                             <location>
-<x>659</x>
-<y>230</y>
+                                <x>659</x>
+                                <y>230</y>
                             </location>
                             <size>
-<width>120</width>
-<height>40</height>
+                                <width>120</width>
+                                <height>40</height>
                             </size>
                         </layout>
                         <layoutPM>
@@ -318,12 +318,12 @@
                             <x>659</x>
                             <y>230</y>
                             <location>
-<x>659</x>
-<y>230</y>
+                                <x>659</x>
+                                <y>230</y>
                             </location>
                             <size>
-<width>120</width>
-<height>40</height>
+                                <width>120</width>
+                                <height>40</height>
                             </size>
                         </layoutPM>
                         <componentType>SENSOR</componentType>
@@ -341,12 +341,12 @@
                             <x>453</x>
                             <y>336</y>
                             <location>
-<x>453</x>
-<y>336</y>
+                                <x>453</x>
+                                <y>336</y>
                             </location>
                             <size>
-<width>120</width>
-<height>40</height>
+                                <width>120</width>
+                                <height>40</height>
                             </size>
                         </layout>
                         <layoutPM>
@@ -355,12 +355,12 @@
                             <x>453</x>
                             <y>336</y>
                             <location>
-<x>453</x>
-<y>336</y>
+                                <x>453</x>
+                                <y>336</y>
                             </location>
                             <size>
-<width>120</width>
-<height>40</height>
+                                <width>120</width>
+                                <height>40</height>
                             </size>
                         </layoutPM>
                         <componentType>CONTROLLED_PROCESS</componentType>
@@ -379,12 +379,12 @@
                             <x>240</x>
                             <y>158</y>
                             <location>
-<x>240</x>
-<y>158</y>
+                                <x>240</x>
+                                <y>158</y>
                             </location>
                             <size>
-<width>120</width>
-<height>11</height>
+                                <width>120</width>
+                                <height>11</height>
                             </size>
                         </layout>
                         <layoutPM>
@@ -393,12 +393,12 @@
                             <x>240</x>
                             <y>158</y>
                             <location>
-<x>240</x>
-<y>158</y>
+                                <x>240</x>
+                                <y>158</y>
                             </location>
                             <size>
-<width>120</width>
-<height>11</height>
+                                <width>120</width>
+                                <height>11</height>
                             </size>
                         </layoutPM>
                         <componentType>CONTROLACTION</componentType>
@@ -418,12 +418,12 @@
                             <x>204</x>
                             <y>336</y>
                             <location>
-<x>204</x>
-<y>336</y>
+                                <x>204</x>
+                                <y>336</y>
                             </location>
                             <size>
-<width>120</width>
-<height>11</height>
+                                <width>120</width>
+                                <height>11</height>
                             </size>
                         </layout>
                         <layoutPM>
@@ -432,12 +432,12 @@
                             <x>204</x>
                             <y>336</y>
                             <location>
-<x>204</x>
-<y>336</y>
+                                <x>204</x>
+                                <y>336</y>
                             </location>
                             <size>
-<width>120</width>
-<height>11</height>
+                                <width>120</width>
+                                <height>11</height>
                             </size>
                         </layoutPM>
                         <componentType>CONTROLACTION</componentType>
@@ -456,12 +456,12 @@
                             <x>624</x>
                             <y>158</y>
                             <location>
-<x>624</x>
-<y>158</y>
+                                <x>624</x>
+                                <y>158</y>
                             </location>
                             <size>
-<width>120</width>
-<height>11</height>
+                                <width>120</width>
+                                <height>11</height>
                             </size>
                         </layout>
                         <layoutPM>
@@ -470,12 +470,12 @@
                             <x>624</x>
                             <y>158</y>
                             <location>
-<x>624</x>
-<y>158</y>
+                                <x>624</x>
+                                <y>158</y>
                             </location>
                             <size>
-<width>120</width>
-<height>11</height>
+                                <width>120</width>
+                                <height>11</height>
                             </size>
                         </layoutPM>
                         <componentType>CONTROLACTION</componentType>
@@ -759,6 +759,18 @@
                 <type>anytime</type>
                 <relatedUCAIDs/>
                 <relatedCaID>0996fce7-ee00-4eb3-88a1-18f5767a7a8e</relatedCaID>
+            </rule>
+            <rule>
+                <ruleID>4f318114-4b07-4f55-af7f-e1386df64027</ruleID>
+                <ruleNR>19</ruleNR>
+                <criticalCombies>ACE4==direct,ACE3==direct,ACE1==normal,ACE2==normal</criticalCombies>
+                <RefinedSafetyRule>The Provide displacement and force variables of the driving stick command must not be provided anytime when ACE4 = direct and ACE3 = direct and ACE1 = normal and ACE2 = normal</RefinedSafetyRule>
+                <refinedUCA>The Provide displacement and force variables of the driving stick command is provided anytime when ACE4 is direct and ACE3 is direct and ACE1 is normal and ACE2 is normal</refinedUCA>
+                <refinedSC>Provide displacement and force variables of the driving stick command must not be provided anytime when ACE4 is direct and ACE3 is direct and ACE1 is normal and ACE2 is normal</refinedSC>
+                <ltlProp>[] (((((ACE4==direct)&amp;&amp;(ACE3==direct)&amp;&amp;(ACE1==normal)&amp;&amp;(ACE2==normal)))-&gt;(!((controlAction==Providedisplacementandforcevariablesofthedrivingstick)))))</ltlProp>
+                <type>anytime</type>
+                <relatedUCAIDs/>
+                <relatedCaID>2192c083-40b2-479a-9358-ac078205ac92</relatedCaID>
             </rule>
             <rule>
                 <ruleID>23f69e48-868d-4c82-be6f-de66f927cce8</ruleID>
